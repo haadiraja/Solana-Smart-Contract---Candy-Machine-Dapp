@@ -1,0 +1,14 @@
+
+
+//Generate A new keypair (Wallet):
+solana-keygen new --outfile {{Path to create a new file containing private key}}
+
+
+----------------------------------------------------------------------------
+Wrote new keypair to ~/.config/solana/devnet-mrted.json
+===========================================================================
+pubkey: SQyz3MGzFATvBzjgmyVGUn1MKwdyFi15Ga3fknWoRJe
+===========================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+build cage wash antique miss solve ensure school scorpion soft ensure faint
+------------------------------------------------------------------------------

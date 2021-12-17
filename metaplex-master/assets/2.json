@@ -1,0 +1,50 @@
+{
+  "name": "Mr Ted #2",
+  "symbol": "MT",
+  "description": "999 Unique Teddies",
+  "seller_fee_basis_points": 500,
+  "image": "image.png",
+  "external_url": "https://haadiraja.com/",
+  "edition": 2,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Ear Ring",
+      "value": "Left Green"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Joker"
+    },
+    {
+      "trait_type": "Coin",
+      "value": "Solana"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "rF4ofymkFRjSroMMExeuAkXy7qjYE3VrMqzHWq2C2SU",
+        "share": 100
+      }
+    ]
+  }
+}

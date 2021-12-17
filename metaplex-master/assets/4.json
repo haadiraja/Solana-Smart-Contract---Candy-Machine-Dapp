@@ -1,0 +1,50 @@
+{
+  "name": "Mr Ted #4",
+  "symbol": "MT",
+  "description": "999 Unique Teddies",
+  "seller_fee_basis_points": 500,
+  "image": "image.png",
+  "external_url": "https://haadiraja.com/",
+  "edition": 4,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Ninja"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smoking"
+    },
+    {
+      "trait_type": "Ear Ring",
+      "value": "Right Green"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Cat Hat"
+    },
+    {
+      "trait_type": "Coin",
+      "value": "Ethereum"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "rF4ofymkFRjSroMMExeuAkXy7qjYE3VrMqzHWq2C2SU",
+        "share": 100
+      }
+    ]
+  }
+}
